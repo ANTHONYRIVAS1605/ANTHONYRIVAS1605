@@ -4,4 +4,4 @@ Cuento con experiencia técnica en lenguajes como Python y VB.NET, manejo de bas
 
 Actualmente sigo fortaleciendo mi perfil profesional con una especialización en Desarrollo Backend, Frontend y Bases de Datos en la Academia CAMEX, con el objetivo de impulsar soluciones tecnológicas eficientes y orientadas a datos.
 
-✉️ Contacto: arivasn@ucvvirtual.edu.pe
+ Contacto: arivasn@ucvvirtual.edu.pe                     Teléfono/whatsapp:991159359
